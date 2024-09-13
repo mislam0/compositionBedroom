@@ -45,7 +45,7 @@ public class Bedroom {
         //call make() method you declared in the Bedroom class.
         this.make();
 
-        //call make() method you created in the Bed class
+        //call make() method you created in the Bed class.
         bed.make();
     }
     public void make(){
