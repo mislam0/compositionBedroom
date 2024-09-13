@@ -42,7 +42,7 @@ public class Bedroom {
     }
     public void makeBed(){
         System.out.println("Bedroom class --> calling makeBed() method");
-        //call make() method you declared in the Bedroom class
+        //call make() method you declared in the Bedroom class.
         this.make();
 
         //call make() method you created in the Bed class
